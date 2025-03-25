@@ -59,10 +59,10 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <!-- Frontend Languages -->
-<h4 align="center">Frontend Languages:</h4>
+<h4 align="center">Frontend Languages</h4>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
@@ -88,7 +88,7 @@
 </p>
 
 <!-- Backend Languages -->
-<h4 align="center">Backend Languages:</h4>
+<h4 align="center">Backend Languages</h4>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
@@ -111,7 +111,7 @@
 </p>
 
 <!-- Databases -->
-<h4 align="center">Databases:</h4>
+<h4 align="center">Databases</h4>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
@@ -122,13 +122,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/PLSQL_logo.png" alt="plsql" width="40" height="40"/>
-  </a>
 </p>
 
 <!-- Tools & Version Control -->
-<h4 align="center">Tools:</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40"/>
