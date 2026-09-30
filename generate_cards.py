@@ -68,6 +68,9 @@ def generate_svg(p):
     status_color = "#00FF00" if p['status'] == 'LIVE' else "#FFBB00"
     status_stroke = "#005500" if p['status'] == 'LIVE' else "#664400"
 
+    title_clean = p['title'].replace('&', '&amp;')
+    subtitle_clean = p['subtitle'].replace('&', '&amp;')
+
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="480" height="165" viewBox="0 0 480 165">
   <!-- Subtle dark terminal card background & border -->
   <rect x="2" y="2" width="476" height="161" rx="8" ry="8" fill="#070c07" stroke="#1b2d1b" stroke-width="1.5"/>
@@ -91,8 +94,8 @@ def generate_svg(p):
   <text x="424" y="61" fill="{status_color}" font-family="sans-serif" font-size="9" font-weight="bold" text-anchor="middle">● {p['status']}</text>
 
   <!-- Card Body Content -->
-  <text x="20" y="62" fill="#FFFFFF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold">{p['title']}</text>
-  <text x="20" y="80" fill="#00DD00" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="500">{p['subtitle']}</text>
+  <text x="20" y="62" fill="#FFFFFF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold">{title_clean}</text>
+  <text x="20" y="80" fill="#00DD00" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="500">{subtitle_clean}</text>
 
   <!-- Tech Tags -->
   {tech_pills}

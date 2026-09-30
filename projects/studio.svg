@@ -22,7 +22,7 @@
 
   <!-- Card Body Content -->
   <text x="20" y="62" fill="#FFFFFF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold">CodebroAI Studio</text>
-  <text x="20" y="80" fill="#00DD00" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="500">Official Agency & Digital Studio</text>
+  <text x="20" y="80" fill="#00DD00" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="500">Official Agency &amp; Digital Studio</text>
 
   <!-- Tech Tags -->
   <rect x="20.0" y="98" width="66.5" height="20" rx="4" fill="#0a140a" stroke="#1b381b" stroke-width="1"/><text x="53.2" y="112" fill="#00FF00" font-family="monospace" font-size="10" text-anchor="middle">Next.js</text><rect x="92.5" y="98" width="51.5" height="20" rx="4" fill="#0a140a" stroke="#1b381b" stroke-width="1"/><text x="118.2" y="112" fill="#00FF00" font-family="monospace" font-size="10" text-anchor="middle">React</text><rect x="150.0" y="98" width="89.0" height="20" rx="4" fill="#0a140a" stroke="#1b381b" stroke-width="1"/><text x="194.5" y="112" fill="#00FF00" font-family="monospace" font-size="10" text-anchor="middle">Cloudflare</text>
