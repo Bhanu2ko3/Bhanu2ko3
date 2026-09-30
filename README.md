@@ -53,71 +53,71 @@
   <tr>
     <td align="center" width="100%">
       <br>
-      <samp><b>[ FRONTEND & UI ]</b></samp>
+      <samp><font color="#00FF00"><b>[ FRONTEND & UI ]</b></font></samp>
       <br><br>
-      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00ff00" height="40"/>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <br>
-      <samp><b>[ BACKEND & AUTH ]</b></samp>
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00ff00" height="40"/>
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00ff00" height="52"/>
       <br><br>
     </td>
   </tr>
   <tr>
     <td align="center" width="100%">
       <br>
-      <samp><b>[ DATABASE ]</b></samp>
+      <samp><font color="#00FF00"><b>[ BACKEND & AUTH ]</b></font></samp>
       <br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff00" height="40"/>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <br>
-      <samp><b>[ DEVOPS & CLOUD ]</b></samp>
-      <br><br>
-      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff00" height="40"/>
+      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00ff00" height="52"/>
       <br><br>
     </td>
   </tr>
   <tr>
     <td align="center" width="100%">
       <br>
-      <samp><b>[ MOBILE DEVELOPMENT ]</b></samp>
+      <samp><font color="#00FF00"><b>[ DATABASE ]</b></font></samp>
       <br><br>
-      <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00ff00" height="40"/>
-      <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff00" height="40"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff00" height="52"/>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <br>
+      <samp><font color="#00FF00"><b>[ DEVOPS & CLOUD ]</b></font></samp>
+      <br><br>
+      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff00" height="52"/>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <br>
+      <samp><font color="#00FF00"><b>[ MOBILE DEVELOPMENT ]</b></font></samp>
+      <br><br>
+      <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff00" height="52"/>
       <br><br>
     </td>
   </tr>
