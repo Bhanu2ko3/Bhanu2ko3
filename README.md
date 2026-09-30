@@ -90,6 +90,8 @@
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" height="52"/>
       <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff00" height="52"/>
       <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff00" height="52"/>
+      <img src="https://img.shields.io/badge/RxDB-000000?style=for-the-badge&logo=rxdb&logoColor=00ff00" height="52"/>
       <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff00" height="52"/>
       <br><br>
     </td>
