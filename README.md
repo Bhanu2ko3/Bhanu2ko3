@@ -171,6 +171,62 @@
   <img src="divider.svg" width="100%">
 </div>
 
+<!-- SERVICES SECTION -->
+<h2 align="center"><samp>&gt;_ cat /etc/services.conf</samp></h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <samp>
+        <font color="#00FF00"><b>[01] AI & Automation Solutions</b></font><br>
+        <small>AI Assistants, Smart Workflows, AR Menus & Automated Agents.</small>
+      </samp>
+    </td>
+    <td width="50%" valign="top">
+      <samp>
+        <font color="#00FF00"><b>[02] Custom Enterprise ERP Systems</b></font><br>
+        <small>Offline-First ERPs, Inventory Sync, Payroll & Business Analytics.</small>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <samp>
+        <font color="#00FF00"><b>[03] High-Performance Web Engineering</b></font><br>
+        <small>Scalable, SEO-Optimized Web Platforms & Cloud Ecosystems.</small>
+      </samp>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <samp>
+        <font color="#00FF00"><b>[04] Mobile App Development</b></font><br>
+        <small>Cross-Platform iOS & Android Apps with Native Performance.</small>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <samp>
+        <font color="#00FF00"><b>[05] Biometrics & Security Systems</b></font><br>
+        <small>Facial Recognition Attendance, CBIS Threat Intelligence & Security.</small>
+      </samp>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <samp>
+        <font color="#00FF00"><b>[06] UI/UX Design & Prototyping</b></font><br>
+        <small>Interactive Prototypes, Wireframing & High-End Product Experience.</small>
+      </samp>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="divider.svg" width="100%">
+</div>
+
 <!-- GITHUB STATS SECTION -->
 <h2 align="center"><samp>&gt;_ cat /var/log/github_metrics.log</samp></h2>
 
